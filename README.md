@@ -10,14 +10,20 @@ The focus is on correct machine learning methodology rather than heavy optimizat
 
 ## Repository Structure
 
-"ml-classification-pipelines/
+```
+ml-classification-pipelines/
+│
 ├── notebooks/
 │   ├── 01_ml_pipeline_basics_titanic.ipynb
 │   └── 02_breast_cancer_classification_pipeline.ipynb
+│
 ├── results/
 │   └── results_summary.csv
+│
 ├── requirements.txt
-└── README.md"
+└── README.md
+```
+
 
 ## Projects
 
